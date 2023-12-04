@@ -1,4 +1,3 @@
-Th
 # Welcome to Farm Craft DAO!
 
 > *Farm Craf* name is not final yet.
